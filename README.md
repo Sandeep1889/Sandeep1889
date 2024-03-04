@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img  align= "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw3IIthDuEBfMlwQllahy2u4&ust=1709633209241000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiBzZKu2oQDFQAAAAAdAAAAABAM" alt = "coding" width = 400px;/>
+<img align ="right" width = 400px src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="Image not load" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep1889&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep1889" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KiZLjuoqpAF2VyK1WkOmUmDAzYrCXcUq/view?usp=sharing](https://drive.google.com/file/d/1KiZLjuoqpAF2VyK1WkOmUmDAzYrCXcUq/view?usp=sharing)
 
-- ⚡ More about me **I love to write poetry, and quotes.**
+- ⚡ More about me **I love to write poetry and quotes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
