@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img  align= "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw3IIthDuEBfMlwQllahy2u4&ust=1709633209241000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiBzZKu2oQDFQAAAAAdAAAAABAM" alt = "coding" width = 400px;>
+<img  align= "right" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw3IIthDuEBfMlwQllahy2u4&ust=1709633209241000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiBzZKu2oQDFQAAAAAdAAAAABAM" alt = "coding" width = 400px;/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep1889&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep1889" /> </p>
 
